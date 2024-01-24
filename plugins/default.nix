@@ -104,6 +104,7 @@
     ./utils/auto-save.nix
     ./utils/auto-session.nix
     ./utils/better-escape.nix
+    ./utils/clipboard-image-nvim.nix
     ./utils/comment-nvim.nix
     ./utils/commentary.nix
     ./utils/conjure.nix
