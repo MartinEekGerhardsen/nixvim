@@ -55,7 +55,8 @@
     ./languages/nvim-jdtls.nix
     ./languages/openscad.nix
     ./languages/plantuml-syntax.nix
-    ./languages/rust.nix
+    ./languages/rust-tools.nix
+    ./languages/rustaceanvim.nix
     ./languages/sniprun.nix
     ./languages/tagbar.nix
     ./languages/treesitter/rainbow-delimiters.nix
